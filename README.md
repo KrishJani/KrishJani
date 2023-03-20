@@ -1,5 +1,5 @@
 ![logo](https://github.com/KrishJani/KrishJani/blob/main/Github%20Banner.png)
-<h1 align="center">Holla Amigos!!!👋 I'm Krish Janni</h1>
+<h1 align="center">Holla Amigos!!!👋 I'm Krish Jani</h1>
 <h3 align="center">A passionate Software Developer and an active Blockchain enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishjani&label=Profile%20views&color=0e75b6&style=flat" alt="krishjani" /> </p>
